@@ -35,7 +35,7 @@ const userProfiles = [
       "JavaScript",
       "ReactJS",
       "Node",
-      "Figma"
+      "Vite"
     ],
   },
   
